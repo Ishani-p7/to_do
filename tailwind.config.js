@@ -7,7 +7,7 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        abc:["Playfair Display","serif"]
+        ab:["Playfair Display","serif"]
       }
     },
   },
