@@ -7,7 +7,7 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        abc:["La Belle Aurore","cursive"]
+        abc:["Playfair Display","serif"]
       }
     },
   },

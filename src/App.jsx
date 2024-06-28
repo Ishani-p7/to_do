@@ -74,7 +74,7 @@ function App() {
     < >
     <Navbar/> 
        <div className="mx-3 md:container md:mx-auto my-5 rounded-xl p-5 bg-pink-100 min-h-[80vh] md:w-[35%]">
-        <h1 className='font-bold text-center text-5xl font-abc text-rose-400'>Agenda - Manage your todos at one place</h1>
+        <h1 className='font-bold text-center text-5xl font-abc text-rose-400'>Daily Planner - Your todos at one place</h1>
          <div className="addTodo my-5 flex flex-col gap-4">
           <h2 className='text-3xl font-bold font-abc text-red-400'>Add a Todo</h2>
           <div className="flex">
