@@ -1,25 +1,29 @@
-# 📝 To-Do App
+# ✅ React To-Do App (Vite)
 
-A sleek and simple **to-do list** app built with **React** — designed to help you organize your tasks effortlessly! Perfect for managing your day-to-day activities with style and ease. 🌟
+A clean, and responsive to-do list app built with **React** and **Vite**.  
+Manage your tasks efficiently and stay productive! 📋✨
 
 ---
 
 ## 🚀 Features
 
-- ✅ **Add tasks** quickly and easily  
-- 🗑️ **Delete tasks** you no longer need  
-- ✔️ **Mark tasks as completed** with a single click  
-- 🌙 **Dark mode / Light mode toggle** for comfy viewing anytime  
-- 📱 **Fully responsive design** — works great on desktop & mobile  
-- 💾 **Persistent storage** — your tasks stay saved in your browser  
-- 🎨 Clean and minimal UI for a distraction-free experience
+- Add, edit, and delete tasks easily 📝  
+- Mark tasks as completed ✔️  
+- Responsive design — works great on desktop and mobile 📱💻  
+- Light/Dark mode toggle 🌞🌙  
+- Clean and modern UI with smooth interactions 🎨  
+- Powered by React & Vite for fast and efficient development ⚡  
 
 ---
 
 ## 💻 Installation
 
-Follow these steps to get the app running locally:
+Clone the repo, install dependencies with `npm install`, and start the development server with `npm run dev`. Then open [http://localhost:5173](http://localhost:5173) in your browser.
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo.git
+---
+
+## 📦 Build for Production
+
+To create an optimized production build, run:  
+```bash
+npm run build
